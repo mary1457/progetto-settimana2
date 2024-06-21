@@ -1,0 +1,148 @@
+body {
+    margin: 0;
+    border: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #e9eded;
+}
+
+
+.hd {
+
+    background-color: #222f3f;
+    width: 100%;
+
+}
+
+.logo {
+    background-repeat: no-repeat;
+    width: 10%;
+    padding-top: 10px;
+    padding-left: 20px;
+}
+
+.nav {
+    background-color: #36475b;
+}
+
+.lista {
+    color: white;
+    list-style-type: none;
+}
+
+.lista li {
+    display: inline-block;
+    padding: 5px;
+}
+
+main {
+    background-color: #e9eded;
+}
+
+section {
+    margin: 0 auto;
+    width: 90%;
+}
+
+.arancione {
+    color: white;
+    background-color: orange;
+    text-align: center;
+}
+
+.bg {
+    background-position: center;
+    background-image: url("../images/bg-image.png");
+    background-repeat: no-repeat;
+    height: 150px;
+    background-size: contain;
+    text-align: center;
+    color: white;
+    margin-bottom: 20px;
+}
+
+.bg h1 {
+    padding-top: 50px;
+    margin: 0 auto;
+}
+
+.bg p {
+    padding-top: 10px;
+    margin: 0 auto;
+}
+
+.sezioni {
+
+    width: 100%;
+    background-color: white;
+
+
+
+}
+
+.immagini {
+    width: 250px;
+    height: 300px;
+    margin: 0 auto;
+    display: inline-block;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+}
+
+.contenitoresezioni {
+    text-align: center;
+}
+
+.immagini img {
+    width: 100%;
+    height: 100%;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.2);
+}
+
+.sezioni p {
+    padding-top: 20px;
+    padding-left: 20px;
+}
+
+.span {
+    color: #1b6b6f;
+}
+
+.b910 {
+    width: 100%;
+}
+
+.imgbottom {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.fondo {
+    background-color: #36475b;
+    text-align: center;
+    padding: 5px;
+}
+
+a:link {
+    color: white;
+}
+
+a:visited {
+    color: white;
+}
+
+.fondof {
+    background-color: #222f3f;
+    text-align: center;
+    height: 80px;
+}
+
+.fondof img {
+    padding-top: 20px;
+}
+
+#paragrafo {
+    text-align: left;
+}
